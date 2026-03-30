@@ -1,0 +1,14 @@
+Q2 Step 2 started: 2026-03-07 14:23:21.079471 
+Root directory: C:/SCD-Malaria syndemic 
+Input file: C:/SCD-Malaria syndemic/outputs/rds/q2_data_step1_cleaned.rds 
+Rows loaded:  280 
+Columns loaded:  18 
+Invalid geometries before Step 2 repair:  0 
+Invalid geometries after Step 2 repair:  0 
+Rows after empty geometry check:  280 
+Neighbour summary written.
+Number of islands:  27 
+Connected components:  45 
+Spatial weights created.
+Global Moran's I complete.
+Q2 Step 2 completed successfully:  2026-03-07 14:25:57.441255 

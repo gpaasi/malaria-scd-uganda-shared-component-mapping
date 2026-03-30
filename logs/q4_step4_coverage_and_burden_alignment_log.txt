@@ -1,0 +1,6 @@
+Step 4 started: 2026-03-14 22:37:42.841141 
+Root directory: C:/SCD-Malaria syndemic 
+Loaded Step 3 object with  280  catchments.
+Population variable used: population_2023
+Admissions model fitted:  Poisson 
+Deaths model fitted:  Negative binomial 

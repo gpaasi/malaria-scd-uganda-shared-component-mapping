@@ -1,0 +1,39 @@
+Step 6 started: 2026-03-15 10:36:43.723202 
+Root directory: C:/SCD-Malaria syndemic 
+Loaded Step 5 object with  280  catchments.
+
+Gap summary:
+  mean_corisk mean_service_access_norm mean_coverage_need_gap median_coverage_need_gap max_coverage_need_gap
+1   0.4574408                0.2669643              0.1904765                0.2053943               0.90529
+
+Gap by region:
+# A tibble: 1 × 6
+  region_out n_catchments mean_corisk mean_service_access_norm mean_coverage_need_gap median_coverage_need_gap
+  <chr>             <int>       <dbl>                    <dbl>                  <dbl>                    <dbl>
+1 <NA>                280       0.457                    0.267                  0.190                    0.205
+
+Top 10 overall gap catchments:
+   catchment_poly_id region coverage_need_gap_rank corisk_score service_access_score service_access_norm
+1                174   <NA>                      1    0.9052900                    0                   0
+2                148   <NA>                      2    0.8939851                    0                   0
+3                190   <NA>                      3    0.8922218                    0                   0
+4                 92   <NA>                      4    0.8054404                    0                   0
+5                126   <NA>                      5    0.7748034                    0                   0
+6                 78   <NA>                      6    0.7682100                    0                   0
+7                 83   <NA>                      7    0.7645316                    0                   0
+8                111   <NA>                      8    0.7609909                    0                   0
+9                 25   <NA>                      9    0.7583559                    0                   0
+10               168   <NA>                     10    0.7418732                    0                   0
+   service_deficit_score coverage_need_gap scd_admissions scd_deaths
+1                      4         0.9052900              0          0
+2                      4         0.8939851              0          0
+3                      4         0.8922218              0          0
+4                      4         0.8054404              0          0
+5                      4         0.7748034              0          0
+6                      4         0.7682100              0          0
+7                      4         0.7645316              0          0
+8                      4         0.7609909              0          0
+9                      4         0.7583559              0          0
+10                     4         0.7418732              0          0
+
+Step 6 completed:  2026-03-15 10:37:51.144272 

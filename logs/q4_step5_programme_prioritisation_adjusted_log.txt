@@ -1,0 +1,46 @@
+Step 5 started: 2026-03-15 10:26:03.255854 
+Root directory: C:/SCD-Malaria syndemic 
+Loaded Step 4 object with  280  catchments.
+
+Priority type summary:
+         programme_priority_type   n  pct
+1         Hidden burden priority  12  4.3
+2 High need high burden priority  30 10.7
+3      High need access priority   2  0.7
+4  Co-risk surveillance priority  68 24.3
+5  Access strengthening priority  68 24.3
+6       Lower immediate priority 100 35.7
+
+Priority tier summary:
+  overall_priority_tier  n pct
+1  Priority 1 (highest) 56  20
+2            Priority 2 56  20
+3            Priority 3 56  20
+4            Priority 4 56  20
+5   Priority 5 (lowest) 56  20
+
+Top 10 overall priority catchments:
+   catchment_poly_id region overall_priority_rank overall_priority_tier  programme_priority_type overall_priority_score
+1                174   <NA>                     1  Priority 1 (highest) Lower immediate priority              0.8573805
+2                148   <NA>                     2  Priority 1 (highest) Lower immediate priority              0.8522933
+3                190   <NA>                     3  Priority 1 (highest) Lower immediate priority              0.8514998
+4                 92   <NA>                     4  Priority 1 (highest) Lower immediate priority              0.8124482
+5                126   <NA>                     5  Priority 1 (highest) Lower immediate priority              0.7986615
+6                 78   <NA>                     6  Priority 1 (highest) Lower immediate priority              0.7956945
+7                 83   <NA>                     7  Priority 1 (highest) Lower immediate priority              0.7940392
+8                111   <NA>                     8  Priority 1 (highest) Lower immediate priority              0.7924459
+9                 25   <NA>                     9  Priority 1 (highest) Lower immediate priority              0.7912602
+10               168   <NA>                    10  Priority 1 (highest) Lower immediate priority              0.7838429
+   corisk_score service_deficit_score service_deficit_std scd_admissions scd_deaths      rr_admissions           rr_deaths
+1     0.9052900                     4                   1              0          0 0.0000000017287373 0.00000000001797148
+2     0.8939851                     4                   1              0          0 0.0000000150009219 0.00000000006020828
+3     0.8922218                     4                   1              0          0 0.0000000326340352 0.00000000008883445
+4     0.8054404                     4                   1              0          0 0.0000000016699474 0.00000000002883881
+5     0.7748034                     4                   1              0          0 0.0000000102920162 0.00000000021143459
+6     0.7682100                     4                   1              0          0 0.0000000001890689 0.00000000001014085
+7     0.7645316                     4                   1              0          0 0.0000000001783602 0.00000000001112159
+8     0.7609909                     4                   1              0          0 0.0000000004413510 0.00000000003381966
+9     0.7583559                     4                   1              0          0 0.0000000839827921 0.00000000031828966
+10    0.7418732                     4                   1              0          0 0.0000000870370512 0.00000000035245784
+
+Step 5 completed:  2026-03-15 10:29:41.644942 

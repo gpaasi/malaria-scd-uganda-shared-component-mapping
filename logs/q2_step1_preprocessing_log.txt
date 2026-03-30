@@ -1,0 +1,8 @@
+Q2 Step 1 started: 2026-03-07 16:55:14.145368 
+Root directory: C:/SCD-Malaria syndemic 
+Population raster: C:/SCD-Malaria syndemic/data/rasters/uga_pop_2023_CN_100m_R2025A_v1.tif 
+Catchments imported:  280 
+Invalid geometries before repair:  0 
+Invalid geometries after repair:  0 
+All-ages population extracted from raster.
+Q2 Step 1 completed successfully:  2026-03-07 16:57:27.706255 

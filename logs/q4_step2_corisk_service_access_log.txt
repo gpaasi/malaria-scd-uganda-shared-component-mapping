@@ -1,0 +1,22 @@
+Step 2 started: 2026-03-14 22:15:35.022002 
+Root directory: C:/SCD-Malaria syndemic 
+Loaded q4_prepped_step1 with  280  catchments.
+Loaded q4_facility_sf_step1 with  296  facilities.
+Missingness summary:
+  n_catchments missing_hbs missing_pfpr
+1          280           0            5
+
+Service access summary:
+# A tibble: 4 × 3
+  service_domain         catchments_with_access pct_catchments_with_access
+  <chr>                                   <int>                      <dbl>
+1 Newborn screening                          55                       19.6
+2 Hydroxyurea                                41                       14.6
+3 Blood transfusion                         115                       41.1
+4 Specialised SCD clinic                     88                       31.4
+
+Co-risk summary:
+   min_corisk q1_corisk median_corisk mean_corisk q3_corisk max_corisk
+1 0.003005088 0.2979176     0.4329345   0.4574408 0.6555415  0.9335513
+
+Step 2 completed:  2026-03-14 22:16:36.637435 

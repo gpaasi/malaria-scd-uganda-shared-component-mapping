@@ -1,0 +1,33 @@
+R version 4.4.1 (2024-06-14 ucrt)
+Platform: x86_64-w64-mingw32/x64
+Running under: Windows 11 x64 (build 26200)
+
+Matrix products: default
+
+
+locale:
+[1] LC_COLLATE=English_Uganda.utf8  LC_CTYPE=English_Uganda.utf8    LC_MONETARY=English_Uganda.utf8
+[4] LC_NUMERIC=C                    LC_TIME=English_Uganda.utf8    
+
+time zone: Africa/Kampala
+tzcode source: internal
+
+attached base packages:
+[1] grid      stats     graphics  grDevices utils     datasets  methods   base     
+
+other attached packages:
+ [1] forcats_1.0.0 pscl_1.5.9    INLA_24.12.11 Matrix_1.7-0  spdep_1.3-13  spData_2.3.4  broom_1.0.10  MASS_7.3-60.2
+ [9] tibble_3.2.1  purrr_1.2.0   tidyr_1.3.1   stringr_1.6.0 janitor_2.2.1 readr_2.1.5   dplyr_1.1.4   terra_1.8-60 
+[17] sf_1.0-21     ggplot2_4.0.0
+
+loaded via a namespace (and not attached):
+ [1] gtable_0.3.6       lattice_0.22-6     tzdb_0.4.0         vctrs_0.6.5        tools_4.4.1        generics_0.1.3    
+ [7] parallel_4.4.1     proxy_0.4-27       fansi_1.0.6        pkgconfig_2.0.3    KernSmooth_2.23-24 RColorBrewer_1.1-3
+[13] S7_0.2.0           lifecycle_1.0.4    fmesher_0.5.0      compiler_4.4.1     farver_2.1.2       deldir_2.0-4      
+[19] MatrixModels_0.5-3 textshaping_0.4.0  codetools_0.2-20   snakecase_0.11.1   class_7.3-22       pillar_1.9.0      
+[25] crayon_1.5.3       classInt_0.4-11    wk_0.9.4           boot_1.3-30        nlme_3.1-164       tidyselect_1.2.1  
+[31] stringi_1.8.4      splines_4.4.1      labeling_0.4.3     cli_3.6.3          magrittr_2.0.3     utf8_1.2.4        
+[37] e1071_1.7-16       withr_3.0.2        scales_1.4.0       backports_1.5.0    sp_2.2-0           bit64_4.0.5       
+[43] lubridate_1.9.3    timechange_0.3.0   igraph_2.0.3       bit_4.0.5          ragg_1.3.2         hms_1.1.3         
+[49] mgcv_1.9-1         s2_1.1.9           rlang_1.1.4        Rcpp_1.0.12        glue_1.7.0         DBI_1.2.3         
+[55] rstudioapi_0.16.0  vroom_1.6.5        R6_2.5.1           systemfonts_1.1.0  units_0.8-7       

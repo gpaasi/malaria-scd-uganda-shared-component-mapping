@@ -1,0 +1,4 @@
+Step 4 started: 2026-03-15 00:23:40.297237 
+Total admissions in q4 step4:  65800 
+Total deaths in q4 step4:  1010 
+Step 4 completed: 2026-03-15 00:25:42.514733 

@@ -1,0 +1,21 @@
+Step 5 started: 2026-03-07 18:33:31.338277 
+Root directory: C:/SCD-Malaria syndemic 
+Loaded analysis object with  280  catchments.
+Adjacency graph ready:  C:/SCD-Malaria syndemic/outputs/graphs/q2_queen_adj.graph 
+Fitting extended shared-component model...
+Extended model fitting completed.
+Extended DIC:  3326.331 
+Extended WAIC:  4964.557 
+
+Model comparison:
+# A tibble: 2 × 7
+  model            dic  waic n_hotspot_080 n_hotspot_090 n_robust_hotspot_005 n_robust_hotspot_010
+  <chr>          <dbl> <dbl>         <dbl>         <dbl>                <dbl>                <dbl>
+1 Step 4 baseli… 3400. 5908.           121           119                    2                    4
+2 Step 5 extend… 3326. 4965.           115           111                    2                    4
+
+Extended hotspot summary:
+  n_catchments n_hotspot_080 n_hotspot_090 n_robust_hotspot_005 n_robust_hotspot_010
+1          280           115           111                    2                    4
+
+Step 5 completed:  2026-03-07 18:37:08.460252 

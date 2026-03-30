@@ -1,0 +1,44 @@
+Step 3 started: 2026-03-07 15:23:00.179387 
+Root directory: C:/SCD-Malaria syndemic 
+Loaded analysis object with  280  catchments.
+Number of island catchments:  27 
+
+Global bivariate Moran's I results:
+# A tibble: 2 × 10
+  pairing x_var  y_var observed_ib mean_perm sd_perm z_score p_value_upper p_value_two_sided  nsim
+  <chr>   <chr>  <chr>       <dbl>     <dbl>   <dbl>   <dbl>         <dbl>             <dbl> <dbl>
+1 cases   malar… scd_…     -0.0768  -0.00201  0.0398   -1.88         0.989             0.046   999
+2 deaths  malar… scd_…     -0.0362   0.00133  0.0343   -1.10         0.904             0.229   999
+
+Global multivariate Geary's C results:
+# A tibble: 2 × 10
+  pairing x_var   y_var observed_c mean_perm sd_perm z_score p_value_lower p_value_two_sided  nsim
+  <chr>   <chr>   <chr>      <dbl>     <dbl>   <dbl>   <dbl>         <dbl>             <dbl> <dbl>
+1 cases   malari… scd_…      1.05      1.00   0.0912   0.542         0.713             0.556   999
+2 deaths  malari… scd_…      0.773     0.995  0.141   -1.58          0.071             0.099   999
+
+Cases LISA cluster counts, p <= 0.05:
+  cases_cluster_005   n
+1   Not significant 266
+2          Low-High  12
+3         High-High   2
+
+Cases LISA cluster counts, p <= 0.10:
+  cases_cluster_010   n
+1   Not significant 259
+2          Low-High  17
+3         High-High   4
+
+Deaths LISA cluster counts, p <= 0.05:
+  deaths_cluster_005   n
+1    Not significant 271
+2           Low-High   8
+3          High-High   1
+
+Deaths LISA cluster counts, p <= 0.10:
+  deaths_cluster_010   n
+1    Not significant 256
+2           Low-High  18
+3          High-High   6
+
+Step 3 completed: 2026-03-07 15:27:08.371466 

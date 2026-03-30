@@ -1,0 +1,5 @@
+Step 4b started: 2026-03-14 23:34:45.534952 
+Root directory: C:/SCD-Malaria syndemic 
+Rows in q4_model:  280 
+Zero SCD admissions:  280 
+Zero SCD deaths:  186 

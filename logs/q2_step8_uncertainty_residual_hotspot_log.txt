@@ -1,0 +1,28 @@
+Step 8 started: 2026-03-07 20:58:51.451424 
+Root directory: C:/SCD-Malaria syndemic 
+Loaded Step 6 and Step 7 outputs.
+
+Uncertainty counts:
+     uncertainty_class   n
+1      Low uncertainty 139
+2 Moderate uncertainty  71
+3     High uncertainty  70
+
+Residual hotspot confidence counts:
+           residual_hotspot_confidence   n
+1                 Not residual hotspot 205
+2          Uncertain candidate hotspot  29
+3     High-confidence residual hotspot  28
+4 Moderate-confidence residual hotspot  17
+5       Exploratory local-only hotspot   1
+
+Residual typology counts:
+                     residual_typology   n
+1            No strong residual signal 196
+2          Uncertain candidate hotspot  29
+3     High-confidence residual hotspot  28
+4 Moderate-confidence residual hotspot  17
+5              Discordant cluster area   9
+6       Exploratory local-only hotspot   1
+
+Step 8 completed:  2026-03-07 21:01:33.018704 

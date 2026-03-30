@@ -1,0 +1,23 @@
+Step 4 started: 2026-03-07 17:00:36.063845 
+Root directory: C:/SCD-Malaria syndemic 
+Loaded analysis object with  280  catchments.
+Adjacency graph saved:  C:/SCD-Malaria syndemic/outputs/graphs/q2_queen_adj.graph 
+Population-based expected counts prepared.
+Fitting INLA shared-component model...
+Model fitting completed.
+DIC:  3400.124 
+WAIC:  5908.24 
+
+Model summary:
+# A tibble: 7 × 2
+  metric                                      value
+  <chr>                                       <dbl>
+1 Number of catchments                         280 
+2 DIC                                         3400.
+3 WAIC                                        5908.
+4 Hotspots (exceedance > 0.80)                 121 
+5 Hotspots (exceedance > 0.90)                 119 
+6 Robust hotspots, strict LISA p <= 0.05         2 
+7 Robust hotspots, exploratory LISA p <= 0.10    4 
+
+Step 4 completed:  2026-03-07 17:03:34.192926 

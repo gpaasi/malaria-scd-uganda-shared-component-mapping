@@ -1,0 +1,23 @@
+Step 7 started: 2026-03-07 20:14:11.045739 
+Root directory: C:/SCD-Malaria syndemic 
+Facility columns after clean_names():
+ name, type, ownership, authority, status, longitude, latitude, f15regions, d_name2016, c_name2016, s_name2016, scode, costituenc, d, c, s, p, pc2016, mpopn, fpopn, sex_ratio, tpopn, id 
+Facility covariates merged to catchment data.
+Fitting Model 7A...
+Fitting Model 7B...
+Fitting Model 7C...
+
+Model comparison:
+# A tibble: 4 × 3
+  model                                                dic  waic
+  <chr>                                              <dbl> <dbl>
+1 Step 5 extended unadjusted model                   3326. 4965.
+2 Step 7A population-adjusted                        3327. 4984.
+3 Step 7B population + facility class                3096. 4094.
+4 Step 7C population + facility + ownership + region 3024. 4165.
+
+Adjusted hotspot summary:
+  n_catchments n_hotspot_080 n_hotspot_090 n_robust_hotspot_005 n_robust_hotspot_010
+1          280            74            48                    1                    3
+
+Step 7 completed:  2026-03-07 20:42:52.233984 

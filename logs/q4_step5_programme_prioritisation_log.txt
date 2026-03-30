@@ -1,0 +1,121 @@
+Step 5 started: 2026-03-15 01:48:12.503517 
+Root directory: C:/SCD-Malaria syndemic 
+Loaded Step 4 object with  280  catchments.
+
+Priority type summary:
+         programme_priority_type   n  pct
+1         Hidden burden priority  12  4.3
+2 High need high burden priority  30 10.7
+3      High need access priority   2  0.7
+4  Co-risk surveillance priority  68 24.3
+5  Access strengthening priority  68 24.3
+6       Lower immediate priority 100 35.7
+
+Priority tier summary:
+  overall_priority_tier  n pct
+1  Priority 1 (highest) 56  20
+2            Priority 2 56  20
+3            Priority 3 56  20
+4            Priority 4 56  20
+5   Priority 5 (lowest) 56  20
+
+Top 10 overall priority catchments:
+   catchment_poly_id region overall_priority_rank overall_priority_tier  programme_priority_type overall_priority_score
+1                174   <NA>                     1  Priority 1 (highest) Lower immediate priority              0.8479095
+2                148   <NA>                     2  Priority 1 (highest) Lower immediate priority              0.8416918
+3                190   <NA>                     3  Priority 1 (highest) Lower immediate priority              0.8407220
+4                 92   <NA>                     4  Priority 1 (highest) Lower immediate priority              0.7929922
+5                126   <NA>                     5  Priority 1 (highest) Lower immediate priority              0.7761419
+6                 78   <NA>                     6  Priority 1 (highest) Lower immediate priority              0.7725155
+7                 83   <NA>                     7  Priority 1 (highest) Lower immediate priority              0.7704924
+8                111   <NA>                     8  Priority 1 (highest) Lower immediate priority              0.7685450
+9                 25   <NA>                     9  Priority 1 (highest) Lower immediate priority              0.7670958
+10               168   <NA>                    10  Priority 1 (highest) Lower immediate priority              0.7580303
+   corisk_score service_deficit_score service_deficit_std structural_vulnerability scd_admissions scd_deaths
+1     0.9052900                     4                   1                0.9052900              0          0
+2     0.8939851                     4                   1                0.8939851              0          0
+3     0.8922218                     4                   1                0.8922218              0          0
+4     0.8054404                     4                   1                0.8054404              0          0
+5     0.7748034                     4                   1                0.7748034              0          0
+6     0.7682100                     4                   1                0.7682100              0          0
+7     0.7645316                     4                   1                0.7645316              0          0
+8     0.7609909                     4                   1                0.7609909              0          0
+9     0.7583559                     4                   1                0.7583559              0          0
+10    0.7418732                     4                   1                0.7418732              0          0
+        rr_admissions           rr_deaths
+1  0.0000000017287373 0.00000000001797148
+2  0.0000000150009219 0.00000000006020828
+3  0.0000000326340352 0.00000000008883445
+4  0.0000000016699474 0.00000000002883881
+5  0.0000000102920162 0.00000000021143459
+6  0.0000000001890689 0.00000000001014085
+7  0.0000000001783602 0.00000000001112159
+8  0.0000000004413510 0.00000000003381966
+9  0.0000000839827921 0.00000000031828966
+10 0.0000000870370512 0.00000000035245784
+
+Step 5 completed:  2026-03-15 01:49:11.119425 
+
+Adjusted model variables present:
+ [1] "area_id"                  "catchment_poly_id"        "scd_admissions"           "scd_deaths"              
+ [5] "population_analysis"      "structural_vulnerability" "sv_z"                     "corisk_score"            
+ [9] "corisk_z"                 "service_deficit_std"      "service_deficit_z"        "sv_quintile"             
+[13] "dominant_type"            "dominant_ownership"       "dominant_f15region"      
+
+dominant_type levels:
+
+General Hospital            HC IV      NR Hospital      RR Hospital 
+             107              161                2               10 
+
+dominant_ownership levels:
+
+   PNFP  Public Unknown 
+     61     208      11 
+
+dominant_f15region levels:
+
+         ACHOLI          ANKOLE    BUGISU_SEBEI          BUKEDI         BUNYORO          BUSOGA       CENTRAL I 
+             15              34              12              15              14              21              21 
+     CENTRAL II GREATER KAMPALA        KARAMOJA          KIGEZI           LANGO            TESO            TORO 
+             30              26               7              17              14              18              21 
+      WEST NILE 
+             15 
+
+Observed factor levels for adjustment variables:
+     dominant_type dominant_ownership dominant_f15region 
+                 4                  3                 15 
+Adjusted admissions Bayesian spatial model fitted.
+Adjusted deaths Bayesian spatial model fitted.
+
+Adjusted component admissions formula:
+ scd_admissions ~ 1 + corisk_z + service_deficit_z + dominant_type +      dominant_ownership + dominant_f15region + f(area_id, model = "bym2",      graph = graph_inla, scale.model = TRUE) 
+
+Adjusted component deaths formula:
+ scd_deaths ~ 1 + corisk_z + service_deficit_z + dominant_type +      dominant_ownership + dominant_f15region + f(area_id, model = "bym2",      graph = graph_inla, scale.model = TRUE) 
+Adjusted component admissions Bayesian spatial model fitted.
+Adjusted component deaths Bayesian spatial model fitted.
+
+Adjusted composite results:
+# A tibble: 2 × 11
+  outcome        model              term  beta_mean beta_sd beta_q025 beta_q50 beta_q975 rr_mean rr_q025 rr_q975
+  <chr>          <chr>              <chr>     <dbl>   <dbl>     <dbl>    <dbl>     <dbl>   <dbl>   <dbl>   <dbl>
+1 SCD admissions Adjusted composite sv_z     -0.976   0.299     -1.57   -0.975    -0.391   0.377   0.209   0.676
+2 SCD deaths     Adjusted composite sv_z     -0.924   0.241     -1.41   -0.921    -0.460   0.397   0.244   0.631
+
+Adjusted component results:
+# A tibble: 4 × 11
+  outcome        model               term              beta_mean beta_sd beta_q025 beta_q50 beta_q975 rr_mean rr_q025 rr_q975
+  <chr>          <chr>               <chr>                 <dbl>   <dbl>     <dbl>    <dbl>     <dbl>   <dbl>   <dbl>   <dbl>
+1 SCD admissions Adjusted components corisk_z              1.58    0.669     0.261    1.58      2.89    4.84    1.30   18.0  
+2 SCD admissions Adjusted components service_deficit_z    -1.22    0.236    -1.68    -1.22     -0.757   0.295   0.186   0.469
+3 SCD deaths     Adjusted components corisk_z              0.880   0.528    -0.150    0.878     1.93    2.41    0.861   6.87 
+4 SCD deaths     Adjusted components service_deficit_z    -1.14    0.196    -1.54    -1.14     -0.770   0.319   0.215   0.463
+
+Adjusted fit summary:
+# A tibble: 4 × 4
+  model                              dic  waic mean_neg_log_cpo
+  <chr>                            <dbl> <dbl>            <dbl>
+1 Admissions adjusted composite  -12882. 1978.             19.9
+2 Deaths adjusted composite         635.  705.             20.5
+3 Admissions adjusted components -45822. 1709.             21.0
+4 Deaths adjusted components        615.  642.             20.0

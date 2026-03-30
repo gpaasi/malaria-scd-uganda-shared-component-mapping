@@ -1,0 +1,26 @@
+Step 6 started: 2026-03-07 19:13:36.820906 
+Root directory: C:/SCD-Malaria syndemic 
+Loaded Step 3, Step 4, and Step 5 outputs.
+
+Typology counts, strict threshold:
+            final_typology_005   n
+1   No strong hotspot evidence 156
+2 Bayesian-only shared hotspot 113
+3      Discordant cluster area   9
+4        Robust shared hotspot   2
+
+Typology counts, exploratory threshold:
+            final_typology_010   n
+1   No strong hotspot evidence 153
+2 Bayesian-only shared hotspot 111
+3      Discordant cluster area  12
+4        Robust shared hotspot   4
+
+Stability counts:
+           stability_class   n
+1 Unstable / weak evidence 159
+2        Moderately stable 106
+3        Borderline stable  11
+4            Highly stable   4
+
+Step 6 completed:  2026-03-07 19:15:30.390073 
