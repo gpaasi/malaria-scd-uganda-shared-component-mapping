@@ -1,10 +1,12 @@
-# Spatial co-clustering of malaria and sickle cell disease burden across health facility catchments in Uganda using Bayesian shared-component disease mapping
+# Spatial co-clustering of facility-recorded malaria and sickle cell disease admissions across health-facility catchments in Uganda: a Bayesian shared-component disease mapping analysis
 
-DOI Release License: MIT  
-R >= 4.3  
-renv  
-Issues  
-Pull requests  
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.19328315.svg)](https://doi.org/10.5281/zenodo.19328315)
+[![release](https://img.shields.io/github/v/release/gpaasi/malaria-scd-uganda-shared-component-mapping)](https://github.com/gpaasi/malaria-scd-uganda-shared-component-mapping/releases)
+[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
+[![R](https://img.shields.io/badge/R-%3E%3D%204.3-276DC3)](https://www.r-project.org/)
+[![reproducibility: renv](https://img.shields.io/badge/reproducibility-renv-brightgreen)](https://rstudio.github.io/renv/)
+[![issues](https://img.shields.io/github/issues/gpaasi/malaria-scd-uganda-shared-component-mapping)](https://github.com/gpaasi/malaria-scd-uganda-shared-component-mapping/issues)
+[![pull requests](https://img.shields.io/github/issues-pr/gpaasi/malaria-scd-uganda-shared-component-mapping)](https://github.com/gpaasi/malaria-scd-uganda-shared-component-mapping/pulls) 
 
 ## Summary
 
