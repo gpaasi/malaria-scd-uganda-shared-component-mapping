@@ -1,0 +1,5 @@
+model,dic,waic
+Step 5 extended unadjusted model,3326.3313287074593,4964.556915169735
+Step 7A population-adjusted,3326.974824217614,4983.6090684907995
+Step 7B population + facility class,3095.7899133228093,4093.699035397004
+Step 7C population + facility + ownership + region,3023.6318914283665,4164.884434348941

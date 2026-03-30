@@ -1,0 +1,5 @@
+priority_rank,catchment_id,catchment_population,malaria_cases,scd_cases,shared_mean_step5,shared_sd_step5,exceed_prob_step5,stability_score,stability_class,prioritisation_score,final_typology_005,final_typology_010
+35,HF0506,17879,4672,434,6.274105659814789,1.5411205904207206,0.999976607406385,10,Highly stable,0.6370893047831985,Robust shared hotspot,Robust shared hotspot
+43,HF1421,18583,3771,155,5.167701484983531,1.4894077111166575,0.9997394171942392,10,Highly stable,0.614499090914301,Robust shared hotspot,Robust shared hotspot
+59,HF0298,25610,4109,71,4.400563162745093,1.4750378067758811,0.998574470055055,7,Highly stable,0.5994758516195585,Bayesian-only shared hotspot,Robust shared hotspot
+105,HF0499,13401,2649,0,2.513943065094557,1.6839020182990263,0.9322718731828501,7,Highly stable,0.5391185089085769,Bayesian-only shared hotspot,Robust shared hotspot

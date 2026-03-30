@@ -1,0 +1,281 @@
+catchment_id,area_index,cases_local_ib,cases_p_value,cases_quadrant,cases_cluster_005,cases_cluster_010,cases_hotspot_005,cases_hotspot_010,deaths_local_ib,deaths_p_value,deaths_quadrant,deaths_cluster_005,deaths_cluster_010,deaths_hotspot_005,deaths_hotspot_010
+HF0002,1,0.019218632016312735,0.831,High-High,Not significant,Not significant,Not hotspot,Not hotspot,-0.050469651799596914,0.616,Low-High,Not significant,Not significant,Not hotspot,Not hotspot
+HF0007,2,0.0026272529063913605,0.921,High-High,Not significant,Not significant,Not hotspot,Not hotspot,0.015797433834844114,0.771,Low-Low,Not significant,Not significant,Not hotspot,Not hotspot
+HF0008,3,-0.12090552372624686,0.845,High-Low,Not significant,Not significant,Not hotspot,Not hotspot,0.008730597761573524,0.967,Low-Low,Not significant,Not significant,Not hotspot,Not hotspot
+HF0019,4,-0.08162234611046724,0.65,Low-High,Not significant,Not significant,Not hotspot,Not hotspot,-0.035313148116134944,0.752,Low-High,Not significant,Not significant,Not hotspot,Not hotspot
+HF0022,5,-0.059978310004035765,0.68,High-Low,Not significant,Not significant,Not hotspot,Not hotspot,0.027100238899402655,0.385,Low-Low,Not significant,Not significant,Not hotspot,Not hotspot
+HF0039,6,-0.6835186516826767,0.041,Low-High,Low-High,Low-High,Not hotspot,Not hotspot,-0.48018287688654276,0.034,Low-High,Low-High,Low-High,Not hotspot,Not hotspot
+HF0052,7,0.008015649872433802,0.841,Low-Low,Not significant,Not significant,Not hotspot,Not hotspot,-0.003481390891359028,0.981,Low-High,Not significant,Not significant,Not hotspot,Not hotspot
+HF0083,8,0.2047941561565181,0.721,Low-Low,Not significant,Not significant,Not hotspot,Not hotspot,0.1420706363019689,0.821,Low-Low,Not significant,Not significant,Not hotspot,Not hotspot
+HF0092,9,0.2047941561565181,0.496,Low-Low,Not significant,Not significant,Not hotspot,Not hotspot,0.1420706363019689,0.62,Low-Low,Not significant,Not significant,Not hotspot,Not hotspot
+HF0093,10,-9.539528015176373e-4,0.819,High-Low,Not significant,Not significant,Not hotspot,Not hotspot,-0.021830368765816035,0.514,High-Low,Not significant,Not significant,Not hotspot,Not hotspot
+HF0103,11,0.05199738149222233,0.834,Low-Low,Not significant,Not significant,Not hotspot,Not hotspot,-0.020900521914069898,0.943,Low-High,Not significant,Not significant,Not hotspot,Not hotspot
+HF0118,12,-0.012405727371761254,0.701,High-Low,Not significant,Not significant,Not hotspot,Not hotspot,0.015797433834844114,0.661,Low-Low,Not significant,Not significant,Not hotspot,Not hotspot
+HF0202,13,-0.12881578891473483,0.435,Low-High,Not significant,Not significant,Not hotspot,Not hotspot,-0.03571608175189161,0.761,Low-High,Not significant,Not significant,Not hotspot,Not hotspot
+HF0203,14,-0.034807143739318196,0.62,Low-High,Not significant,Not significant,Not hotspot,Not hotspot,0.09839108044119431,0.45,High-High,Not significant,Not significant,Not hotspot,Not hotspot
+HF0204,15,-0.2458031048482768,0.769,High-Low,Not significant,Not significant,Not hotspot,Not hotspot,0.06988795355356198,0.43,Low-Low,Not significant,Not significant,Not hotspot,Not hotspot
+HF0216,16,-0.11018142298441212,0.264,High-Low,Not significant,Not significant,Not hotspot,Not hotspot,0.14207063630196892,0.256,Low-Low,Not significant,Not significant,Not hotspot,Not hotspot
+HF0252,17,-0.04423807050337043,0.739,High-Low,Not significant,Not significant,Not hotspot,Not hotspot,-0.014028510895450862,0.848,Low-High,Not significant,Not significant,Not hotspot,Not hotspot
+HF0253,18,-0.4206382281126014,0.087,Low-High,Not significant,Low-High,Not hotspot,Not hotspot,0.1365225500865503,0.476,Low-Low,Not significant,Not significant,Not hotspot,Not hotspot
+HF0262,19,-0.15764557586657482,0.376,Low-High,Not significant,Not significant,Not hotspot,Not hotspot,0.04398212507443799,0.754,Low-Low,Not significant,Not significant,Not hotspot,Not hotspot
+HF0263,20,0.1236551399282665,0.563,Low-Low,Not significant,Not significant,Not hotspot,Not hotspot,-0.02948610784519254,0.862,High-Low,Not significant,Not significant,Not hotspot,Not hotspot
+HF0264,21,-0.02948454872324339,0.885,Low-High,Not significant,Not significant,Not hotspot,Not hotspot,-0.117201660859911,0.295,Low-High,Not significant,Not significant,Not hotspot,Not hotspot
+HF0281,22,0.0029275996568492524,0.979,Low-Low,Not significant,Not significant,Not hotspot,Not hotspot,0.01802906627903483,0.867,Low-Low,Not significant,Not significant,Not hotspot,Not hotspot
+HF0282,23,-0.008017313642029905,0.843,Low-High,Not significant,Not significant,Not hotspot,Not hotspot,0.01532217877728497,0.565,High-High,Not significant,Not significant,Not hotspot,Not hotspot
+HF0283,24,-0.00813366861330854,0.967,Low-High,Not significant,Not significant,Not hotspot,Not hotspot,0.023546157599395216,0.876,Low-Low,Not significant,Not significant,Not hotspot,Not hotspot
+HF0290,25,-0.2562105613192184,0.13,Low-High,Not significant,Not significant,Not hotspot,Not hotspot,-0.23572613956248467,0.115,Low-High,Not significant,Not significant,Not hotspot,Not hotspot
+HF0298,26,0.296701426091456,0.07,High-High,Not significant,High-High,Not hotspot,Hotspot,-0.05775345213827495,0.497,Low-High,Not significant,Not significant,Not hotspot,Not hotspot
+HF0304,27,0.791074896692536,0.29,High-High,Not significant,Not significant,Not hotspot,Not hotspot,-0.46147435822941074,0.675,High-Low,Not significant,Not significant,Not hotspot,Not hotspot
+HF0316,28,0.2047941561565181,0.271,Low-Low,Not significant,Not significant,Not hotspot,Not hotspot,0.1420706363019689,0.348,Low-Low,Not significant,Not significant,Not hotspot,Not hotspot
+HF0327,29,-0.13653213129089,0.471,High-Low,Not significant,Not significant,Not hotspot,Not hotspot,0.10323403279403875,0.588,Low-Low,Not significant,Not significant,Not hotspot,Not hotspot
+HF0354,30,0.1764715600923188,0.633,Low-Low,Not significant,Not significant,Not hotspot,Not hotspot,0.05317727727503864,0.865,Low-Low,Not significant,Not significant,Not hotspot,Not hotspot
+HF0362,31,-0.36616479935084073,0.336,High-Low,Not significant,Not significant,Not hotspot,Not hotspot,-0.029920036376007385,0.453,High-Low,Not significant,Not significant,Not hotspot,Not hotspot
+HF0376,32,-0.26775746586846894,0.141,Low-High,Not significant,Not significant,Not hotspot,Not hotspot,0.030953937518306083,0.867,Low-Low,Not significant,Not significant,Not hotspot,Not hotspot
+HF0401,33,0.1294124774010338,0.741,Low-Low,Not significant,Not significant,Not hotspot,Not hotspot,0.008730597761573524,0.995,Low-Low,Not significant,Not significant,Not hotspot,Not hotspot
+HF0402,34,0.2047941561565181,0.486,Low-Low,Not significant,Not significant,Not hotspot,Not hotspot,0.1420706363019689,0.599,Low-Low,Not significant,Not significant,Not hotspot,Not hotspot
+HF0411,35,0.012200502919962775,0.973,Low-Low,Not significant,Not significant,Not hotspot,Not hotspot,-0.05793942150862416,0.734,Low-High,Not significant,Not significant,Not hotspot,Not hotspot
+HF0429,36,0.13652943743767873,0.678,Low-Low,Not significant,Not significant,Not hotspot,Not hotspot,0.02354615759939522,0.896,Low-Low,Not significant,Not significant,Not hotspot,Not hotspot
+HF0438,37,0.17189637149733275,0.458,Low-Low,Not significant,Not significant,Not hotspot,Not hotspot,0.10873562666687005,0.456,Low-Low,Not significant,Not significant,Not hotspot,Not hotspot
+HF0446,38,0.1798121739870705,0.508,Low-Low,Not significant,Not significant,Not hotspot,Not hotspot,0.09762395678850376,0.612,Low-Low,Not significant,Not significant,Not hotspot,Not hotspot
+HF0465,39,-0.505740096601344,0.504,High-Low,Not significant,Not significant,Not hotspot,Not hotspot,-0.17417027797689072,0.57,High-Low,Not significant,Not significant,Not hotspot,Not hotspot
+HF0494,40,-0.2450454915483786,0.737,High-Low,Not significant,Not significant,Not hotspot,Not hotspot,-0.5341139942878186,0.654,High-Low,Not significant,Not significant,Not hotspot,Not hotspot
+HF0499,41,0.10155448733438292,0.051,High-High,Not significant,High-High,Not hotspot,Hotspot,-0.40610507769743426,0.031,Low-High,Low-High,Low-High,Not hotspot,Not hotspot
+HF0505,42,0.07872229265023602,0.813,Low-Low,Not significant,Not significant,Not hotspot,Not hotspot,0.12725507646414716,0.497,Low-Low,Not significant,Not significant,Not hotspot,Not hotspot
+HF0506,43,0.7012739918051851,0.042,High-High,High-High,High-High,Hotspot,Hotspot,0.5852356458441753,0.046,High-High,High-High,High-High,Hotspot,Hotspot
+HF0537,44,0.15555641222952546,0.528,Low-Low,Not significant,Not significant,Not hotspot,Not hotspot,0.06428894715340493,0.702,Low-Low,Not significant,Not significant,Not hotspot,Not hotspot
+HF0540,45,0.13914383092052787,0.648,Low-Low,Not significant,Not significant,Not hotspot,Not hotspot,0.038361717437216926,0.832,Low-Low,Not significant,Not significant,Not hotspot,Not hotspot
+HF0550,46,-0.035974227042409226,0.332,High-Low,Not significant,Not significant,Not hotspot,Not hotspot,-0.24288596032092993,0.437,High-Low,Not significant,Not significant,Not hotspot,Not hotspot
+HF0560,47,-0.013788779515149953,0.338,High-Low,Not significant,Not significant,Not hotspot,Not hotspot,0.06203148562999902,0.467,Low-Low,Not significant,Not significant,Not hotspot,Not hotspot
+HF0583,48,0.10719013279681586,0.585,Low-Low,Not significant,Not significant,Not hotspot,Not hotspot,0.06799283711286033,0.606,Low-Low,Not significant,Not significant,Not hotspot,Not hotspot
+HF0588,49,0.10785423203660985,0.718,Low-Low,Not significant,Not significant,Not hotspot,Not hotspot,0.11987829144029453,0.833,Low-Low,Not significant,Not significant,Not hotspot,Not hotspot
+HF0608,50,0.15407492258924427,0.457,Low-Low,Not significant,Not significant,Not hotspot,Not hotspot,0.044287941372345624,0.767,Low-Low,Not significant,Not significant,Not hotspot,Not hotspot
+HF0615,51,0.20479415615651808,0.355,Low-Low,Not significant,Not significant,Not hotspot,Not hotspot,0.14207063630196887,0.478,Low-Low,Not significant,Not significant,Not hotspot,Not hotspot
+HF0650,52,0.17899781780528198,0.321,Low-Low,Not significant,Not significant,Not hotspot,Not hotspot,0.1365225500865503,0.445,Low-Low,Not significant,Not significant,Not hotspot,Not hotspot
+HF0678,53,-0.0931014568059065,0.643,Low-High,Not significant,Not significant,Not hotspot,Not hotspot,0.09762395678850376,0.425,Low-Low,Not significant,Not significant,Not hotspot,Not hotspot
+HF0680,54,0.004229374302235819,0.856,Low-Low,Not significant,Not significant,Not hotspot,Not hotspot,0.00857562328628249,0.906,Low-Low,Not significant,Not significant,Not hotspot,Not hotspot
+HF0698,55,-0.281483031653427,0.127,Low-High,Not significant,Not significant,Not hotspot,Not hotspot,0.1309589664236026,0.382,Low-Low,Not significant,Not significant,Not hotspot,Not hotspot
+HF0715,56,-0.0330752374822484,0.492,High-Low,Not significant,Not significant,Not hotspot,Not hotspot,0.04220508442443427,0.597,Low-Low,Not significant,Not significant,Not hotspot,Not hotspot
+HF0718,57,-0.6144432417980006,0.348,High-Low,Not significant,Not significant,Not hotspot,Not hotspot,0.058849343070690036,0.431,Low-Low,Not significant,Not significant,Not hotspot,Not hotspot
+HF0720,58,-0,1,Low-High,Not significant,Not significant,Not hotspot,Not hotspot,-0,1,Low-High,Not significant,Not significant,Not hotspot,Not hotspot
+HF0724,59,0.054902263139832506,0.809,Low-Low,Not significant,Not significant,Not hotspot,Not hotspot,-0.028308301832980755,0.849,Low-High,Not significant,Not significant,Not hotspot,Not hotspot
+HF0732,60,-0,1,Low-High,Not significant,Not significant,Not hotspot,Not hotspot,-0,1,Low-High,Not significant,Not significant,Not hotspot,Not hotspot
+HF0741,61,-0.019230132362251833,0.945,Low-High,Not significant,Not significant,Not hotspot,Not hotspot,0.013720775865944418,0.918,Low-Low,Not significant,Not significant,Not hotspot,Not hotspot
+HF0752,62,-0.2739125360949793,0.779,High-Low,Not significant,Not significant,Not hotspot,Not hotspot,-0.4016418128090528,0.805,High-Low,Not significant,Not significant,Not hotspot,Not hotspot
+HF0773,63,0.2047941561565181,0.732,Low-Low,Not significant,Not significant,Not hotspot,Not hotspot,0.1420706363019689,0.843,Low-Low,Not significant,Not significant,Not hotspot,Not hotspot
+HF0777,64,-0.44315251464525807,0.066,Low-High,Not significant,Low-High,Not hotspot,Not hotspot,-0.020838532123953504,0.053,Low-High,Not significant,Low-High,Not hotspot,Not hotspot
+HF0854,65,0.06114928260068765,0.216,Low-Low,Not significant,Not significant,Not hotspot,Not hotspot,0.11433020522487596,0.247,Low-Low,Not significant,Not significant,Not hotspot,Not hotspot
+HF0859,66,0.2047941561565181,0.76,Low-Low,Not significant,Not significant,Not hotspot,Not hotspot,0.1420706363019689,0.839,Low-Low,Not significant,Not significant,Not hotspot,Not hotspot
+HF0860,67,0.16732118290234674,0.667,Low-Low,Not significant,Not significant,Not hotspot,Not hotspot,0.0754006170317712,0.787,Low-Low,Not significant,Not significant,Not hotspot,Not hotspot
+HF0873,68,0.19811292836701466,0.41,Low-Low,Not significant,Not significant,Not hotspot,Not hotspot,0.14207063630196887,0.449,Low-Low,Not significant,Not significant,Not hotspot,Not hotspot
+HF0883,69,-3.414723745338921e-4,0.831,High-Low,Not significant,Not significant,Not hotspot,Not hotspot,-0.1460424107115702,0.475,High-Low,Not significant,Not significant,Not hotspot,Not hotspot
+HF0887,70,0.15374917328445858,0.587,Low-Low,Not significant,Not significant,Not hotspot,Not hotspot,0.1365225500865503,0.594,Low-Low,Not significant,Not significant,Not hotspot,Not hotspot
+HF0889,71,-0.1838790082937248,0.294,Low-High,Not significant,Not significant,Not hotspot,Not hotspot,-0.065347201427535,0.607,Low-High,Not significant,Not significant,Not hotspot,Not hotspot
+HF0919,72,0.18199083522277812,0.321,Low-Low,Not significant,Not significant,Not hotspot,Not hotspot,0.10503173670741461,0.393,Low-Low,Not significant,Not significant,Not hotspot,Not hotspot
+HF0921,73,0.06260713460755944,0.717,Low-Low,Not significant,Not significant,Not hotspot,Not hotspot,0.028486743871673017,0.788,Low-Low,Not significant,Not significant,Not hotspot,Not hotspot
+HF0926,74,-0.0877274257578276,0.586,Low-High,Not significant,Not significant,Not hotspot,Not hotspot,0.00873059776157352,0.941,Low-Low,Not significant,Not significant,Not hotspot,Not hotspot
+HF0940,75,-0.2766456342768997,0.115,Low-High,Not significant,Not significant,Not hotspot,Not hotspot,0.008730597761573509,0.955,Low-Low,Not significant,Not significant,Not hotspot,Not hotspot
+HF0948,76,-0.09005133107591579,0.791,Low-High,Not significant,Not significant,Not hotspot,Not hotspot,-0.09497832110317844,0.628,Low-High,Not significant,Not significant,Not hotspot,Not hotspot
+HF0957,77,0.1986939046965367,0.546,Low-Low,Not significant,Not significant,Not hotspot,Not hotspot,0.1420706363019689,0.571,Low-Low,Not significant,Not significant,Not hotspot,Not hotspot
+HF0966,78,-0.2094419667926944,0.153,Low-High,Not significant,Not significant,Not hotspot,Not hotspot,-0.8357563129942637,0.015,Low-High,Low-High,Low-High,Not hotspot,Not hotspot
+HF0975,79,-0.5031116762821397,0.737,High-Low,Not significant,Not significant,Not hotspot,Not hotspot,0.04775317063985286,0.831,Low-Low,Not significant,Not significant,Not hotspot,Not hotspot
+HF0998,80,-0.29484548723243387,0.127,Low-High,Not significant,Not significant,Not hotspot,Not hotspot,-0.06534720142753501,0.746,Low-High,Not significant,Not significant,Not hotspot,Not hotspot
+HF1015,81,0.054089232104559876,0.484,Low-Low,Not significant,Not significant,Not hotspot,Not hotspot,-0.0243719501605888,0.582,High-Low,Not significant,Not significant,Not hotspot,Not hotspot
+HF1032,82,-0.8467008004270247,0.225,High-Low,Not significant,Not significant,Not hotspot,Not hotspot,0.031108911993597096,0.258,Low-Low,Not significant,Not significant,Not hotspot,Not hotspot
+HF1063,83,0.04473517737319685,0.866,Low-Low,Not significant,Not significant,Not hotspot,Not hotspot,0.008730597761573504,0.973,Low-Low,Not significant,Not significant,Not hotspot,Not hotspot
+HF1065,84,-0.09760402335970225,0.734,Low-High,Not significant,Not significant,Not hotspot,Not hotspot,0.09762395678850376,0.62,Low-Low,Not significant,Not significant,Not hotspot,Not hotspot
+HF1092,85,0.19346511773083835,0.464,Low-Low,Not significant,Not significant,Not hotspot,Not hotspot,0.12725507646414716,0.501,Low-Low,Not significant,Not significant,Not hotspot,Not hotspot
+HF1113,86,-0.13938698796973462,0.469,High-Low,Not significant,Not significant,Not hotspot,Not hotspot,-0.11149860016920139,0.533,High-Low,Not significant,Not significant,Not hotspot,Not hotspot
+HF1125,87,-1.814470799203924,0.247,High-Low,Not significant,Not significant,Not hotspot,Not hotspot,-0.41273798523989,0.323,High-Low,Not significant,Not significant,Not hotspot,Not hotspot
+HF1130,88,0.03716321360743303,0.344,Low-Low,Not significant,Not significant,Not hotspot,Not hotspot,0.1365225500865503,0.454,Low-Low,Not significant,Not significant,Not hotspot,Not hotspot
+HF1147,89,-0,1,Low-High,Not significant,Not significant,Not hotspot,Not hotspot,-0,1,Low-High,Not significant,Not significant,Not hotspot,Not hotspot
+HF1165,90,-0.25766300214302346,0.137,Low-High,Not significant,Not significant,Not hotspot,Not hotspot,-0.06534720142753501,0.772,Low-High,Not significant,Not significant,Not hotspot,Not hotspot
+HF1166,91,-0.779462142426142,0.35,High-Low,Not significant,Not significant,Not hotspot,Not hotspot,-1.0563159862284466,0.327,High-Low,Not significant,Not significant,Not hotspot,Not hotspot
+HF1180,92,-0.24880311311781242,0.147,Low-High,Not significant,Not significant,Not hotspot,Not hotspot,0.030953937518306083,0.937,Low-Low,Not significant,Not significant,Not hotspot,Not hotspot
+HF1207,93,0.12897674515389226,0.618,Low-Low,Not significant,Not significant,Not hotspot,Not hotspot,0.06428894715340493,0.717,Low-Low,Not significant,Not significant,Not hotspot,Not hotspot
+HF1209,94,0.1313006504719804,0.659,Low-Low,Not significant,Not significant,Not hotspot,Not hotspot,0.08280839695068204,0.711,Low-Low,Not significant,Not significant,Not hotspot,Not hotspot
+HF1234,95,0.008924878979041592,0.483,Low-Low,Not significant,Not significant,Not hotspot,Not hotspot,0.00993939866884348,0.537,Low-Low,Not significant,Not significant,Not hotspot,Not hotspot
+HF1246,96,0.14698701136907538,0.621,Low-Low,Not significant,Not significant,Not hotspot,Not hotspot,0.08280839695068204,0.712,Low-Low,Not significant,Not significant,Not hotspot,Not hotspot
+HF1249,97,0.14698701136907538,0.601,Low-Low,Not significant,Not significant,Not hotspot,Not hotspot,0.08280839695068204,0.672,Low-Low,Not significant,Not significant,Not hotspot,Not hotspot
+HF1250,98,0.04147396428600344,0.765,High-High,Not significant,Not significant,Not hotspot,Not hotspot,0.06799283711286035,0.754,Low-Low,Not significant,Not significant,Not hotspot,Not hotspot
+HF1269,99,-0,1,Low-High,Not significant,Not significant,Not hotspot,Not hotspot,-0,1,Low-High,Not significant,Not significant,Not hotspot,Not hotspot
+HF1276,100,-0.3464328633488426,0.457,High-Low,Not significant,Not significant,Not hotspot,Not hotspot,-0.07430472609935611,0.558,High-Low,Not significant,Not significant,Not hotspot,Not hotspot
+HF1281,101,0.2047941561565181,0.46,Low-Low,Not significant,Not significant,Not hotspot,Not hotspot,0.1420706363019689,0.593,Low-Low,Not significant,Not significant,Not hotspot,Not hotspot
+HF1312,102,-0.024674491664169535,0.769,Low-High,Not significant,Not significant,Not hotspot,Not hotspot,0.04417326026063023,0.538,High-High,Not significant,Not significant,Not hotspot,Not hotspot
+HF1313,103,5.094716986438244e-4,0.975,Low-Low,Not significant,Not significant,Not hotspot,Not hotspot,0.020074729352876308,0.785,High-High,Not significant,Not significant,Not hotspot,Not hotspot
+HF1322,104,0.10631866830253281,0.711,Low-Low,Not significant,Not significant,Not hotspot,Not hotspot,0.038361717437216926,0.833,Low-Low,Not significant,Not significant,Not hotspot,Not hotspot
+HF1340,105,0.14466310605098726,0.626,Low-Low,Not significant,Not significant,Not hotspot,Not hotspot,0.08280839695068204,0.669,Low-Low,Not significant,Not significant,Not hotspot,Not hotspot
+HF1354,106,-0.09607261114000391,0.491,High-Low,Not significant,Not significant,Not hotspot,Not hotspot,0.0033684809165041465,0.624,Low-Low,Not significant,Not significant,Not hotspot,Not hotspot
+HF1375,107,-1.8676022048606804,0.725,High-Low,Not significant,Not significant,Not hotspot,Not hotspot,-0.47376693360949457,0.824,High-Low,Not significant,Not significant,Not hotspot,Not hotspot
+HF1390,108,-0.25228897109494464,0.122,Low-High,Not significant,Not significant,Not hotspot,Not hotspot,-0.1023861010220893,0.713,Low-High,Not significant,Not significant,Not hotspot,Not hotspot
+HF1405,109,0.2047941561565181,0.466,Low-Low,Not significant,Not significant,Not hotspot,Not hotspot,0.1420706363019689,0.596,Low-Low,Not significant,Not significant,Not hotspot,Not hotspot
+HF1408,110,-0.12042602519108998,0.661,High-Low,Not significant,Not significant,Not hotspot,Not hotspot,-0.05119803183346472,0.687,High-Low,Not significant,Not significant,Not hotspot,Not hotspot
+HF1419,111,-0.8716823604066266,0.016,Low-High,Low-High,Low-High,Not hotspot,Not hotspot,-0.2801728190759498,0.061,Low-High,Not significant,Low-High,Not hotspot,Not hotspot
+HF1421,112,0.47617759491920614,0.017,High-High,High-High,High-High,Hotspot,Hotspot,-0.023814042049541122,0.103,Low-High,Not significant,Not significant,Not hotspot,Not hotspot
+HF1431,113,0.04033118498390063,0.496,Low-Low,Not significant,Not significant,Not hotspot,Not hotspot,0.04775317063985286,0.564,Low-Low,Not significant,Not significant,Not hotspot,Not hotspot
+HF1438,114,0.17080704087947893,0.828,Low-Low,Not significant,Not significant,Not hotspot,Not hotspot,0.09762395678850376,0.869,Low-Low,Not significant,Not significant,Not hotspot,Not hotspot
+HF1475,115,0.13681992560243977,0.883,Low-Low,Not significant,Not significant,Not hotspot,Not hotspot,0.008730597761573516,1,Low-Low,Not significant,Not significant,Not hotspot,Not hotspot
+HF1483,116,0.11503331324536337,0.772,Low-Low,Not significant,Not significant,Not hotspot,Not hotspot,-0.05793942150862418,0.815,Low-High,Not significant,Not significant,Not hotspot,Not hotspot
+HF1492,117,0.20370482553866429,0.254,Low-Low,Not significant,Not significant,Not hotspot,Not hotspot,0.1420706363019689,0.307,Low-Low,Not significant,Not significant,Not hotspot,Not hotspot
+HF1515,118,-0.03376924915346841,0.902,Low-High,Not significant,Not significant,Not hotspot,Not hotspot,0.08651228691013749,0.631,Low-Low,Not significant,Not significant,Not hotspot,Not hotspot
+HF1524,119,0.2047941561565181,0.263,Low-Low,Not significant,Not significant,Not hotspot,Not hotspot,0.1420706363019689,0.318,Low-Low,Not significant,Not significant,Not hotspot,Not hotspot
+HF1530,120,0.20239762879723971,0.324,Low-Low,Not significant,Not significant,Not hotspot,Not hotspot,0.1420706363019689,0.324,Low-Low,Not significant,Not significant,Not hotspot,Not hotspot
+HF1532,121,0.13600392055322186,0.489,Low-Low,Not significant,Not significant,Not hotspot,Not hotspot,0.11987829144029453,0.612,Low-Low,Not significant,Not significant,Not hotspot,Not hotspot
+HF1533,122,0.20200546977481232,0.245,Low-Low,Not significant,Not significant,Not hotspot,Not hotspot,0.14207063630196892,0.255,Low-Low,Not significant,Not significant,Not hotspot,Not hotspot
+HF1547,123,-0.036383642636317576,0.884,Low-High,Not significant,Not significant,Not hotspot,Not hotspot,-0.013492741995159045,0.931,Low-High,Not significant,Not significant,Not hotspot,Not hotspot
+HF1583,124,-0.06318117583552155,0.794,Low-High,Not significant,Not significant,Not hotspot,Not hotspot,-0.08016276126535675,0.607,Low-High,Not significant,Not significant,Not hotspot,Not hotspot
+HF1591,125,-0.042863218776677085,0.041,Low-High,Low-High,Low-High,Not hotspot,Not hotspot,-0.04561895072298791,0.342,Low-High,Not significant,Not significant,Not hotspot,Not hotspot
+HF1595,126,-0.06274544358838001,0.947,Low-High,Not significant,Not significant,Not hotspot,Not hotspot,0.008730597761573516,1,Low-Low,Not significant,Not significant,Not hotspot,Not hotspot
+HF1600,127,-1.1376968972865296,0.003,Low-High,Low-High,Low-High,Not hotspot,Not hotspot,-0.2912844889543161,0.071,Low-High,Not significant,Low-High,Not hotspot,Not hotspot
+HF1609,128,-0.8269688644250265,0.33,High-Low,Not significant,Not significant,Not hotspot,Not hotspot,-1.0563159862284464,0.455,High-Low,Not significant,Not significant,Not hotspot,Not hotspot
+HF1617,129,0.08811839969117972,0.743,Low-Low,Not significant,Not significant,Not hotspot,Not hotspot,-0.15448851961493093,0.883,High-Low,Not significant,Not significant,Not hotspot,Not hotspot
+HF1629,130,0.2047941561565181,0.747,Low-Low,Not significant,Not significant,Not hotspot,Not hotspot,0.1420706363019689,0.831,Low-Low,Not significant,Not significant,Not hotspot,Not hotspot
+HF1643,131,0.2047941561565181,0.741,Low-Low,Not significant,Not significant,Not hotspot,Not hotspot,0.1420706363019689,0.842,Low-Low,Not significant,Not significant,Not hotspot,Not hotspot
+HF1647,132,0.15991373470094075,0.524,Low-Low,Not significant,Not significant,Not hotspot,Not hotspot,0.04206560739667235,0.825,Low-Low,Not significant,Not significant,Not hotspot,Not hotspot
+HF1667,133,0.2047941561565181,0.247,Low-Low,Not significant,Not significant,Not hotspot,Not hotspot,0.1420706363019689,0.325,Low-Low,Not significant,Not significant,Not hotspot,Not hotspot
+HF1688,134,-0.5481511669040421,0.069,Low-High,Not significant,Low-High,Not hotspot,Not hotspot,-0.3468428383461475,0.109,Low-High,Not significant,Not significant,Not hotspot,Not hotspot
+HF1697,135,0.08515762162112388,0.107,High-High,Not significant,Not significant,Not hotspot,Not hotspot,-1.1661618943147227,0.02,Low-High,Low-High,Low-High,Not hotspot,Not hotspot
+HF1698,136,-0.4056248204056974,0.656,High-Low,Not significant,Not significant,Not hotspot,Not hotspot,-2.18257748795842,0.598,High-Low,Not significant,Not significant,Not hotspot,Not hotspot
+HF1722,137,-0.23599258505185153,0.145,Low-High,Not significant,Not significant,Not hotspot,Not hotspot,-0.09794143307074278,0.45,Low-High,Not significant,Not significant,Not hotspot,Not hotspot
+HF1726,138,-0.19673310958439985,0.341,Low-High,Not significant,Not significant,Not hotspot,Not hotspot,-0.15794445041392072,0.105,Low-High,Not significant,Not significant,Not hotspot,Not hotspot
+HF1734,139,-0.35625468526291326,0.088,Low-High,Not significant,Low-High,Not hotspot,Not hotspot,-0.19572412800036607,0.088,Low-High,Not significant,Low-High,Not hotspot,Not hotspot
+HF1747,140,0.29781875817858383,0.101,High-High,Not significant,Not significant,Not hotspot,Not hotspot,-0.00782067619950765,0.31,Low-High,Not significant,Not significant,Not hotspot,Not hotspot
+HF1751,141,-0.5891099981353457,0.046,Low-High,Low-High,Low-High,Not hotspot,Not hotspot,-0.22831835964357378,0.09,Low-High,Not significant,Low-High,Not hotspot,Not hotspot
+HF1752,142,-0.9667813685876163,0.479,High-Low,Not significant,Not significant,Not hotspot,Not hotspot,-0.3805032943793575,0.349,High-Low,Not significant,Not significant,Not hotspot,Not hotspot
+HF1754,143,-0.3425918294232069,0.036,Low-High,Low-High,Low-High,Not hotspot,Not hotspot,0.006343990842091757,0.052,High-High,Not significant,High-High,Not hotspot,Hotspot
+HF1769,144,0,1,High-High,Not significant,Not significant,Not hotspot,Not hotspot,0,1,High-High,Not significant,Not significant,Not hotspot,Not hotspot
+HF1785,145,-1.061308232815729,0.334,High-Low,Not significant,Not significant,Not hotspot,Not hotspot,-0.8954214859813072,0.451,High-Low,Not significant,Not significant,Not hotspot,Not hotspot
+HF1805,146,0.06187397909409697,0.931,Low-Low,Not significant,Not significant,Not hotspot,Not hotspot,-0.1023861010220893,0.738,Low-High,Not significant,Not significant,Not hotspot,Not hotspot
+HF1831,147,0,1,High-High,Not significant,Not significant,Not hotspot,Not hotspot,0,1,High-High,Not significant,Not significant,Not hotspot,Not hotspot
+HF1856,148,0.2047941561565181,0.743,Low-Low,Not significant,Not significant,Not hotspot,Not hotspot,0.1420706363019689,0.82,Low-Low,Not significant,Not significant,Not hotspot,Not hotspot
+HF1868,149,-3.0178815437022224,0.011,Low-High,Low-High,Low-High,Not hotspot,Not hotspot,-1.0135430310481242,0.012,Low-High,Low-High,Low-High,Not hotspot,Not hotspot
+HF1882,150,-0,1,Low-High,Not significant,Not significant,Not hotspot,Not hotspot,-0,1,Low-High,Not significant,Not significant,Not hotspot,Not hotspot
+HF1903,151,0.06187397909409697,0.896,Low-Low,Not significant,Not significant,Not hotspot,Not hotspot,-0.1023861010220893,0.711,Low-High,Not significant,Not significant,Not hotspot,Not hotspot
+HF1927,152,-0.9085017352900857,0.037,Low-High,Low-High,Low-High,Not hotspot,Not hotspot,-0.19127946004901952,0.134,Low-High,Not significant,Not significant,Not hotspot,Not hotspot
+HF1934,153,-0.01986027116898359,0.716,High-Low,Not significant,Not significant,Not hotspot,Not hotspot,-0.03546812259142598,0.838,High-Low,Not significant,Not significant,Not hotspot,Not hotspot
+HF1965,154,0.08344647207620727,0.965,High-High,Not significant,Not significant,Not hotspot,Not hotspot,-0.11025880436687344,0.993,High-Low,Not significant,Not significant,Not hotspot,Not hotspot
+HF1970,155,-0.04311141986541581,0.145,Low-High,Not significant,Not significant,Not hotspot,Not hotspot,0.19591910064975598,0.078,High-High,Not significant,High-High,Not hotspot,Hotspot
+HF1994,156,-0.24880311311781242,0.162,Low-High,Not significant,Not significant,Not hotspot,Not hotspot,-0.12460944077882186,0.404,Low-High,Not significant,Not significant,Not hotspot,Not hotspot
+HF1999,157,0.16122093144236532,0.855,Low-Low,Not significant,Not significant,Not hotspot,Not hotspot,0.1420706363019689,0.81,Low-Low,Not significant,Not significant,Not hotspot,Not hotspot
+HF2009,158,0.04177940047028581,0.712,Low-Low,Not significant,Not significant,Not hotspot,Not hotspot,-0.31287243336235543,0.823,High-Low,Not significant,Not significant,Not hotspot,Not hotspot
+HF2019,159,-0.17167850537376197,0.668,Low-High,Not significant,Not significant,Not hotspot,Not hotspot,-0.1023861010220893,0.709,Low-High,Not significant,Not significant,Not hotspot,Not hotspot
+HF2027,160,-0.8453205594545641,0.043,Low-High,Low-High,Low-High,Not hotspot,Not hotspot,-0.1023861010220893,0.718,Low-High,Not significant,Not significant,Not hotspot,Not hotspot
+HF2028,161,-0.34994249899389857,0.009,Low-High,Low-High,Low-High,Not hotspot,Not hotspot,-1.3851098330058786,0.011,Low-High,Low-High,Low-High,Not hotspot,Not hotspot
+HF2029,162,-0.9491180232542296,0.829,High-Low,Not significant,Not significant,Not hotspot,Not hotspot,-1.8996250909720722,0.811,High-Low,Not significant,Not significant,Not hotspot,Not hotspot
+HF2057,163,-0,1,Low-High,Not significant,Not significant,Not hotspot,Not hotspot,-0,1,Low-High,Not significant,Not significant,Not hotspot,Not hotspot
+HF2067,164,-1.4030870876026327,0.746,High-Low,Not significant,Not significant,Not hotspot,Not hotspot,-0.5902767441332849,0.823,High-Low,Not significant,Not significant,Not hotspot,Not hotspot
+HF2099,165,0,1,High-High,Not significant,Not significant,Not hotspot,Not hotspot,0,1,High-High,Not significant,Not significant,Not hotspot,Not hotspot
+HF2108,166,-0,1,Low-High,Not significant,Not significant,Not hotspot,Not hotspot,-0,1,Low-High,Not significant,Not significant,Not hotspot,Not hotspot
+HF2124,167,-1.22740044641053,0.735,High-Low,Not significant,Not significant,Not hotspot,Not hotspot,0.10878211900945735,0.816,Low-Low,Not significant,Not significant,Not hotspot,Not hotspot
+HF2140,168,-0,1,Low-High,Not significant,Not significant,Not hotspot,Not hotspot,-0,1,Low-High,Not significant,Not significant,Not hotspot,Not hotspot
+HF2145,169,0.026976257520982736,0.543,High-High,Not significant,Not significant,Not hotspot,Not hotspot,0.0069948836383140625,0.902,Low-Low,Not significant,Not significant,Not hotspot,Not hotspot
+HF2152,170,0.2047941561565181,0.741,Low-Low,Not significant,Not significant,Not hotspot,Not hotspot,0.1420706363019689,0.819,Low-Low,Not significant,Not significant,Not hotspot,Not hotspot
+HF2167,171,-0,1,Low-High,Not significant,Not significant,Not hotspot,Not hotspot,-0,1,Low-High,Not significant,Not significant,Not hotspot,Not hotspot
+HF2186,172,0.2047941561565181,0.758,Low-Low,Not significant,Not significant,Not hotspot,Not hotspot,0.1420706363019689,0.843,Low-Low,Not significant,Not significant,Not hotspot,Not hotspot
+HF2190,173,0.2047941561565181,0.76,Low-Low,Not significant,Not significant,Not hotspot,Not hotspot,0.1420706363019689,0.834,Low-Low,Not significant,Not significant,Not hotspot,Not hotspot
+HF2205,174,-1.2863572089897424,0.004,Low-High,Low-High,Low-High,Not hotspot,Not hotspot,-0.25388914806659246,0.078,Low-High,Not significant,Low-High,Not hotspot,Not hotspot
+HF2206,175,-1.0088104214342661,0.477,High-Low,Not significant,Not significant,Not hotspot,Not hotspot,-0.3849975541627971,0.582,High-Low,Not significant,Not significant,Not hotspot,Not hotspot
+HF2211,176,0.2047941561565181,0.742,Low-Low,Not significant,Not significant,Not hotspot,Not hotspot,0.1420706363019689,0.828,Low-Low,Not significant,Not significant,Not hotspot,Not hotspot
+HF2222,177,-0.4733327453433443,0.458,High-Low,Not significant,Not significant,Not hotspot,Not hotspot,-0.06320855366851892,0.614,High-Low,Not significant,Not significant,Not hotspot,Not hotspot
+HF2228,178,-0,1,Low-High,Not significant,Not significant,Not hotspot,Not hotspot,-0,1,Low-High,Not significant,Not significant,Not hotspot,Not hotspot
+HF2249,179,0.06187397909409697,0.917,Low-Low,Not significant,Not significant,Not hotspot,Not hotspot,-0.1023861010220893,0.719,Low-High,Not significant,Not significant,Not hotspot,Not hotspot
+HF2278,180,-0.019643707380150442,0.816,Low-High,Not significant,Not significant,Not hotspot,Not hotspot,0.08618684051202632,0.729,Low-Low,Not significant,Not significant,Not hotspot,Not hotspot
+HF2280,181,-0,1,Low-High,Not significant,Not significant,Not hotspot,Not hotspot,-0,1,Low-High,Not significant,Not significant,Not hotspot,Not hotspot
+HF2292,182,-0,1,Low-High,Not significant,Not significant,Not hotspot,Not hotspot,-0,1,Low-High,Not significant,Not significant,Not hotspot,Not hotspot
+HF2305,183,0,1,High-High,Not significant,Not significant,Not hotspot,Not hotspot,0,1,High-High,Not significant,Not significant,Not hotspot,Not hotspot
+HF2329,184,0.1677408916520593,0.971,High-High,Not significant,Not significant,Not hotspot,Not hotspot,1.5646123398933183,0.085,High-High,Not significant,High-High,Not hotspot,Hotspot
+HF2330,185,0,1,High-High,Not significant,Not significant,Not hotspot,Not hotspot,0,1,High-High,Not significant,Not significant,Not hotspot,Not hotspot
+HF2353,186,0,1,High-High,Not significant,Not significant,Not hotspot,Not hotspot,0,1,High-High,Not significant,Not significant,Not hotspot,Not hotspot
+HF2375,187,-0,1,Low-High,Not significant,Not significant,Not hotspot,Not hotspot,-0,1,Low-High,Not significant,Not significant,Not hotspot,Not hotspot
+HF2376,188,-0,1,Low-High,Not significant,Not significant,Not hotspot,Not hotspot,-0,1,Low-High,Not significant,Not significant,Not hotspot,Not hotspot
+HF2400,189,-0,1,Low-High,Not significant,Not significant,Not hotspot,Not hotspot,-0,1,Low-High,Not significant,Not significant,Not hotspot,Not hotspot
+HF2410,190,0.2047941561565181,0.768,Low-Low,Not significant,Not significant,Not hotspot,Not hotspot,0.1420706363019689,0.835,Low-Low,Not significant,Not significant,Not hotspot,Not hotspot
+HF2428,191,-0.343357010747524,0.139,Low-High,Not significant,Not significant,Not hotspot,Not hotspot,-0.03571608175189161,0.973,Low-High,Not significant,Not significant,Not hotspot,Not hotspot
+HF2445,192,-0.0919239528188538,0.687,Low-High,Not significant,Not significant,Not hotspot,Not hotspot,-0.0805811923486425,0.573,Low-High,Not significant,Not significant,Not hotspot,Not hotspot
+HF2448,193,-0.422369791562521,0.085,Low-High,Not significant,Low-High,Not hotspot,Not hotspot,-0.1986872399679304,0.101,Low-High,Not significant,Not significant,Not hotspot,Not hotspot
+HF2457,194,0.029156568311912084,0.147,High-High,Not significant,Not significant,Not hotspot,Not hotspot,-0.08983316852351651,0.15,Low-High,Not significant,Not significant,Not hotspot,Not hotspot
+HF2475,195,0.2047941561565181,0.489,Low-Low,Not significant,Not significant,Not hotspot,Not hotspot,0.1420706363019689,0.595,Low-Low,Not significant,Not significant,Not hotspot,Not hotspot
+HF2481,196,-0,1,Low-High,Not significant,Not significant,Not hotspot,Not hotspot,-0,1,Low-High,Not significant,Not significant,Not hotspot,Not hotspot
+HF2490,197,-1.0145127699119079,0.484,High-Low,Not significant,Not significant,Not hotspot,Not hotspot,-0.129785588253542,0.586,High-Low,Not significant,Not significant,Not hotspot,Not hotspot
+HF2494,198,-0.9411816538257003,0.042,Low-High,Low-High,Low-High,Not hotspot,Not hotspot,-0.21350279980575212,0.129,Low-High,Not significant,Not significant,Not hotspot,Not hotspot
+HF2501,199,-0.3681937488345911,0.106,Low-High,Not significant,Not significant,Not hotspot,Not hotspot,-0.03571608175189161,0.896,Low-High,Not significant,Not significant,Not hotspot,Not hotspot
+HF2508,200,0.18437698800474367,0.262,Low-Low,Not significant,Not significant,Not hotspot,Not hotspot,0.0849249054989423,0.47,Low-Low,Not significant,Not significant,Not hotspot,Not hotspot
+HF2512,201,0.1326854822288413,0.531,Low-Low,Not significant,Not significant,Not hotspot,Not hotspot,0.07304500500734766,0.661,Low-Low,Not significant,Not significant,Not hotspot,Not hotspot
+HF2513,202,0.08342740326369708,0.476,Low-Low,Not significant,Not significant,Not hotspot,Not hotspot,0.04425074749827576,0.617,Low-Low,Not significant,Not significant,Not hotspot,Not hotspot
+HF2521,203,0.2047941561565181,0.25,Low-Low,Not significant,Not significant,Not hotspot,Not hotspot,0.1420706363019689,0.328,Low-Low,Not significant,Not significant,Not hotspot,Not hotspot
+HF2522,204,0.015439981311655273,0.482,Low-Low,Not significant,Not significant,Not hotspot,Not hotspot,0.03665699820901568,0.584,Low-Low,Not significant,Not significant,Not hotspot,Not hotspot
+HF2528,205,0.20370482553866429,0.282,Low-Low,Not significant,Not significant,Not hotspot,Not hotspot,0.1309589664236026,0.346,Low-Low,Not significant,Not significant,Not hotspot,Not hotspot
+HF2565,206,-0,1,Low-High,Not significant,Not significant,Not hotspot,Not hotspot,-0,1,Low-High,Not significant,Not significant,Not hotspot,Not hotspot
+HF2566,207,0,1,High-High,Not significant,Not significant,Not hotspot,Not hotspot,0,1,High-High,Not significant,Not significant,Not hotspot,Not hotspot
+HF2570,208,0.2047941561565181,0.74,Low-Low,Not significant,Not significant,Not hotspot,Not hotspot,0.1420706363019689,0.82,Low-Low,Not significant,Not significant,Not hotspot,Not hotspot
+HF2578,209,0.2047941561565181,0.738,Low-Low,Not significant,Not significant,Not hotspot,Not hotspot,0.1420706363019689,0.815,Low-Low,Not significant,Not significant,Not hotspot,Not hotspot
+HF2586,210,-0.13246260313102448,0.881,Low-High,Not significant,Not significant,Not hotspot,Not hotspot,-0.8357563129942637,0.032,Low-High,Low-High,Low-High,Not hotspot,Not hotspot
+HF2594,211,-0.18495683661689458,0.749,High-Low,Not significant,Not significant,Not hotspot,Not hotspot,-0.4182860714553086,0.83,High-Low,Not significant,Not significant,Not hotspot,Not hotspot
+HF2601,212,-0.24198032139331122,0.49,High-Low,Not significant,Not significant,Not hotspot,Not hotspot,0.11433020522487594,0.577,Low-Low,Not significant,Not significant,Not hotspot,Not hotspot
+HF2622,213,0.20435842390937659,0.51,Low-Low,Not significant,Not significant,Not hotspot,Not hotspot,0.1420706363019689,0.588,Low-Low,Not significant,Not significant,Not hotspot,Not hotspot
+HF2652,214,-0,1,Low-High,Not significant,Not significant,Not hotspot,Not hotspot,-0,1,Low-High,Not significant,Not significant,Not hotspot,Not hotspot
+HF2673,215,0.11677624223392948,0.916,Low-Low,Not significant,Not significant,Not hotspot,Not hotspot,-0.03571608175189161,0.97,Low-High,Not significant,Not significant,Not hotspot,Not hotspot
+HF2677,216,-0,1,Low-High,Not significant,Not significant,Not hotspot,Not hotspot,-0,1,Low-High,Not significant,Not significant,Not hotspot,Not hotspot
+HF2695,217,0.19666048754320958,0.45,Low-Low,Not significant,Not significant,Not hotspot,Not hotspot,0.14207063630196887,0.465,Low-Low,Not significant,Not significant,Not hotspot,Not hotspot
+HF2705,218,0.09002307886049227,0.487,Low-Low,Not significant,Not significant,Not hotspot,Not hotspot,0.04775317063985286,0.603,Low-Low,Not significant,Not significant,Not hotspot,Not hotspot
+HF2708,219,0.2047941561565181,0.484,Low-Low,Not significant,Not significant,Not hotspot,Not hotspot,0.1420706363019689,0.585,Low-Low,Not significant,Not significant,Not hotspot,Not hotspot
+HF2734,220,0.18170034705801713,0.607,Low-Low,Not significant,Not significant,Not hotspot,Not hotspot,0.11984729654523632,0.644,Low-Low,Not significant,Not significant,Not hotspot,Not hotspot
+HF2749,221,0.1923031650717943,0.463,Low-Low,Not significant,Not significant,Not hotspot,Not hotspot,0.12725507646414716,0.507,Low-Low,Not significant,Not significant,Not hotspot,Not hotspot
+HF2753,222,0.1590422702066577,0.514,Low-Low,Not significant,Not significant,Not hotspot,Not hotspot,-0.024604411873525328,0.863,Low-High,Not significant,Not significant,Not hotspot,Not hotspot
+HF2761,223,-0.3315922400747027,0.103,Low-High,Not significant,Not significant,Not hotspot,Not hotspot,-0.36906617810288,0.053,Low-High,Not significant,Low-High,Not hotspot,Not hotspot
+HF2778,224,0.1590422702066577,0.499,Low-Low,Not significant,Not significant,Not hotspot,Not hotspot,-0.024604411873525328,0.853,Low-High,Not significant,Not significant,Not hotspot,Not hotspot
+HF2791,225,-0.11053292756634818,0.48,High-Low,Not significant,Not significant,Not hotspot,Not hotspot,0.007490801959245332,0.732,Low-Low,Not significant,Not significant,Not hotspot,Not hotspot
+HF2801,226,0.06147392799881689,0.965,High-High,Not significant,Not significant,Not hotspot,Not hotspot,-0.008787716925323626,0.671,Low-High,Not significant,Not significant,Not hotspot,Not hotspot
+HF2806,227,-0.401615497457831,0.748,High-Low,Not significant,Not significant,Not hotspot,Not hotspot,0.3380823526500535,0.889,High-High,Not significant,Not significant,Not hotspot,Not hotspot
+HF2819,228,0.2047941561565181,0.741,Low-Low,Not significant,Not significant,Not hotspot,Not hotspot,0.1420706363019689,0.838,Low-Low,Not significant,Not significant,Not hotspot,Not hotspot
+HF2830,229,0.1747286311037527,0.441,Low-Low,Not significant,Not significant,Not hotspot,Not hotspot,0.08651228691013749,0.629,Low-Low,Not significant,Not significant,Not hotspot,Not hotspot
+HF2836,230,-0.3692422572594093,0.758,High-Low,Not significant,Not significant,Not hotspot,Not hotspot,0.06994551550152722,0.827,Low-Low,Not significant,Not significant,Not hotspot,Not hotspot
+HF2837,231,0.03933553683701081,0.747,Low-Low,Not significant,Not significant,Not hotspot,Not hotspot,0.11433020522487594,0.828,Low-Low,Not significant,Not significant,Not hotspot,Not hotspot
+HF2843,232,0.1548301918176229,0.59,Low-Low,Not significant,Not significant,Not hotspot,Not hotspot,0.05317727727503864,0.794,Low-Low,Not significant,Not significant,Not hotspot,Not hotspot
+HF2874,233,-0.00929355353940684,0.982,High-Low,Not significant,Not significant,Not hotspot,Not hotspot,0.08658977414778295,0.088,High-High,Not significant,High-High,Not hotspot,Hotspot
+HF2879,234,0.2047941561565181,0.501,Low-Low,Not significant,Not significant,Not hotspot,Not hotspot,0.1420706363019689,0.597,Low-Low,Not significant,Not significant,Not hotspot,Not hotspot
+HF2886,235,0.17574533968041625,0.521,Low-Low,Not significant,Not significant,Not hotspot,Not hotspot,0.11243951662632547,0.521,Low-Low,Not significant,Not significant,Not hotspot,Not hotspot
+HF2891,236,-0.2259802776821458,0.683,High-Low,Not significant,Not significant,Not hotspot,Not hotspot,-0.2912379966117287,0.741,High-Low,Not significant,Not significant,Not hotspot,Not hotspot
+HF2900,237,0.2047941561565181,0.494,Low-Low,Not significant,Not significant,Not hotspot,Not hotspot,0.1420706363019689,0.601,Low-Low,Not significant,Not significant,Not hotspot,Not hotspot
+HF2916,238,0.036165776512746814,0.969,Low-Low,Not significant,Not significant,Not hotspot,Not hotspot,-0.3468428383461474,0.089,Low-High,Not significant,Low-High,Not hotspot,Not hotspot
+HF2927,239,-0.23404227677783315,0.448,High-Low,Not significant,Not significant,Not hotspot,Not hotspot,-0.2381995321881294,0.591,High-Low,Not significant,Not significant,Not hotspot,Not hotspot
+HF2931,240,0.0923752363940039,0.767,Low-Low,Not significant,Not significant,Not hotspot,Not hotspot,-0.18387168013010868,0.107,Low-High,Not significant,Not significant,Not hotspot,Not hotspot
+HF2932,241,0.2047941561565181,0.205,Low-Low,Not significant,Not significant,Not hotspot,Not hotspot,0.14207063630196892,0.255,Low-Low,Not significant,Not significant,Not hotspot,Not hotspot
+HF2937,242,0.0923752363940039,0.761,Low-Low,Not significant,Not significant,Not hotspot,Not hotspot,-0.18387168013010868,0.094,Low-High,Not significant,Low-High,Not hotspot,Not hotspot
+HF2983,243,-0,1,Low-High,Not significant,Not significant,Not hotspot,Not hotspot,-0,1,Low-High,Not significant,Not significant,Not hotspot,Not hotspot
+HF2984,244,0.05737220579409786,0.641,Low-Low,Not significant,Not significant,Not hotspot,Not hotspot,0.10323403279403875,0.582,Low-Low,Not significant,Not significant,Not hotspot,Not hotspot
+HF2991,245,0.2013082981793859,0.774,Low-Low,Not significant,Not significant,Not hotspot,Not hotspot,0.1420706363019689,0.831,Low-Low,Not significant,Not significant,Not hotspot,Not hotspot
+HF3019,246,-0.8050646051934506,0.725,High-Low,Not significant,Not significant,Not hotspot,Not hotspot,-0.129785588253542,0.821,High-Low,Not significant,Not significant,Not hotspot,Not hotspot
+HF3033,247,-0.10501147156110824,0.852,Low-High,Not significant,Not significant,Not hotspot,Not hotspot,-0.12460944077882184,0.66,Low-High,Not significant,Not significant,Not hotspot,Not hotspot
+HF3034,248,-0.0330752374822484,0.481,High-Low,Not significant,Not significant,Not hotspot,Not hotspot,0.04220508442443427,0.587,Low-Low,Not significant,Not significant,Not hotspot,Not hotspot
+HF3036,249,-0.10501147156110824,0.844,Low-High,Not significant,Not significant,Not hotspot,Not hotspot,-0.12460944077882184,0.642,Low-High,Not significant,Not significant,Not hotspot,Not hotspot
+HF3047,250,0.20479415615651808,0.354,Low-Low,Not significant,Not significant,Not hotspot,Not hotspot,0.14207063630196887,0.43,Low-Low,Not significant,Not significant,Not hotspot,Not hotspot
+HF3083,251,-0.058388121116964745,0.915,Low-High,Not significant,Not significant,Not hotspot,Not hotspot,-0.5024062166432753,0.044,Low-High,Low-High,Low-High,Not hotspot,Not hotspot
+HF3085,252,-0.1373437269036132,0.969,High-Low,Not significant,Not significant,Not hotspot,Not hotspot,0.845096846012161,0.072,High-High,Not significant,High-High,Not hotspot,Hotspot
+HF3103,253,-0.08322485920403185,0.874,Low-High,Not significant,Not significant,Not hotspot,Not hotspot,0.008730597761573524,0.996,Low-Low,Not significant,Not significant,Not hotspot,Not hotspot
+HF3109,254,-0.19355561606730662,0.457,High-Low,Not significant,Not significant,Not hotspot,Not hotspot,-0.04101620880684457,0.585,High-Low,Not significant,Not significant,Not hotspot,Not hotspot
+HF3118,255,-0.40000220287592264,0.115,Low-High,Not significant,Not significant,Not hotspot,Not hotspot,-0.4135128576163451,0.069,Low-High,Not significant,Low-High,Not hotspot,Not hotspot
+HF3137,256,0.1754548515156552,0.524,Low-Low,Not significant,Not significant,Not hotspot,Not hotspot,0.08280839695068204,0.697,Low-Low,Not significant,Not significant,Not hotspot,Not hotspot
+HF3141,257,0.04209377245225009,0.703,Low-Low,Not significant,Not significant,Not hotspot,Not hotspot,-0.035809066437066224,0.614,High-Low,Not significant,Not significant,Not hotspot,Not hotspot
+HF3145,258,0.2013082981793859,0.497,Low-Low,Not significant,Not significant,Not hotspot,Not hotspot,0.1420706363019689,0.579,Low-Low,Not significant,Not significant,Not hotspot,Not hotspot
+HF3146,259,0.04648855037334709,0.819,Low-Low,Not significant,Not significant,Not hotspot,Not hotspot,0.0831338433487932,0.615,Low-Low,Not significant,Not significant,Not hotspot,Not hotspot
+HF3149,260,0.116738720641554,0.489,Low-Low,Not significant,Not significant,Not hotspot,Not hotspot,0.03281363122179833,0.418,Low-Low,Not significant,Not significant,Not hotspot,Not hotspot
+HF3153,261,0.04640548432057272,0.861,Low-Low,Not significant,Not significant,Not hotspot,Not hotspot,0.08651228691013749,0.604,Low-Low,Not significant,Not significant,Not hotspot,Not hotspot
+HF3171,262,-0.05976730380632553,0.693,High-Low,Not significant,Not significant,Not hotspot,Not hotspot,-0.028184322252747942,0.626,High-Low,Not significant,Not significant,Not hotspot,Not hotspot
+HF3186,263,0.1191001475520176,0.685,Low-Low,Not significant,Not significant,Not hotspot,Not hotspot,0.09762395678850376,0.587,Low-Low,Not significant,Not significant,Not hotspot,Not hotspot
+HF3188,264,0.1191001475520176,0.68,Low-Low,Not significant,Not significant,Not hotspot,Not hotspot,0.09762395678850376,0.584,Low-Low,Not significant,Not significant,Not hotspot,Not hotspot
+HF3207,265,0.19978323531439054,0.309,Low-Low,Not significant,Not significant,Not hotspot,Not hotspot,0.11984729654523635,0.392,Low-Low,Not significant,Not significant,Not hotspot,Not hotspot
+HF3214,266,0.048802011679851126,0.962,Low-Low,Not significant,Not significant,Not hotspot,Not hotspot,-0.21350279980575212,0.142,Low-High,Not significant,Not significant,Not hotspot,Not hotspot
+HF3222,267,-1.22740044641053,0.732,High-Low,Not significant,Not significant,Not hotspot,Not hotspot,0.04220508442443427,0.823,Low-Low,Not significant,Not significant,Not hotspot,Not hotspot
+HF3226,268,0.06732063218336606,0.757,Low-Low,Not significant,Not significant,Not hotspot,Not hotspot,0.008730597761573524,0.961,Low-Low,Not significant,Not significant,Not hotspot,Not hotspot
+HF3236,269,0.11699942075066491,0.194,Low-Low,Not significant,Not significant,Not hotspot,Not hotspot,0.11888645479843198,0.233,Low-Low,Not significant,Not significant,Not hotspot,Not hotspot
+HF3241,270,0.20159878634414688,0.393,Low-Low,Not significant,Not significant,Not hotspot,Not hotspot,0.14207063630196887,0.451,Low-Low,Not significant,Not significant,Not hotspot,Not hotspot
+HF3255,271,0.16122093144236532,0.676,Low-Low,Not significant,Not significant,Not hotspot,Not hotspot,0.05317727727503864,0.877,Low-Low,Not significant,Not significant,Not hotspot,Not hotspot
+HF3264,272,0.2047941561565181,0.5,Low-Low,Not significant,Not significant,Not hotspot,Not hotspot,0.1420706363019689,0.612,Low-Low,Not significant,Not significant,Not hotspot,Not hotspot
+HF3271,273,0.20357410586452185,0.235,Low-Low,Not significant,Not significant,Not hotspot,Not hotspot,0.13318130039927586,0.306,Low-Low,Not significant,Not significant,Not hotspot,Not hotspot
+HF3291,274,0.20087256593224437,0.553,Low-Low,Not significant,Not significant,Not hotspot,Not hotspot,0.1420706363019689,0.601,Low-Low,Not significant,Not significant,Not hotspot,Not hotspot
+HF3308,275,0.14372405193135596,0.21,Low-Low,Not significant,Not significant,Not hotspot,Not hotspot,0.10323403279403877,0.276,Low-Low,Not significant,Not significant,Not hotspot,Not hotspot
+HF3330,276,0.20363220349747402,0.341,Low-Low,Not significant,Not significant,Not hotspot,Not hotspot,0.14207063630196887,0.447,Low-Low,Not significant,Not significant,Not hotspot,Not hotspot
+HF3331,277,0.12984900473608482,0.723,Low-Low,Not significant,Not significant,Not hotspot,Not hotspot,0.1420706363019689,0.811,Low-Low,Not significant,Not significant,Not hotspot,Not hotspot
+HF3339,278,0.20417168151774448,0.154,Low-Low,Not significant,Not significant,Not hotspot,Not hotspot,0.13572111065718814,0.199,Low-Low,Not significant,Not significant,Not hotspot,Not hotspot
+HF3353,279,0.012525758068900668,0.176,Low-Low,Not significant,Not significant,Not hotspot,Not hotspot,0.03665699820901567,0.2,Low-Low,Not significant,Not significant,Not hotspot,Not hotspot
+HF3362,280,0.2047941561565181,0.486,Low-Low,Not significant,Not significant,Not hotspot,Not hotspot,0.1420706363019689,0.599,Low-Low,Not significant,Not significant,Not hotspot,Not hotspot

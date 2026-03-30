@@ -1,0 +1,7 @@
+metric,value
+Adjusted model DIC,3023.63
+Adjusted model WAIC,4164.88
+Adjusted hotspots (>0.80),115
+Adjusted hotspots (>0.90),111
+"Adjusted robust hotspots, strict p <= 0.05",1
+"Adjusted robust hotspots, exploratory p <= 0.10",3

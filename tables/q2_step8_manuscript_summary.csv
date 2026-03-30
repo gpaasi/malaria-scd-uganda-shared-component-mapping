@@ -1,0 +1,9 @@
+metric,value
+Adjusted hotspots (>0.80),74
+Adjusted hotspots (>0.90),48
+High-confidence residual hotspots,28
+Moderate-confidence residual hotspots,17
+Uncertain candidate hotspots,29
+Exploratory local-only hotspots,1
+High uncertainty catchments,70
+Low uncertainty catchments,139

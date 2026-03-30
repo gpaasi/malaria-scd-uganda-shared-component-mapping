@@ -1,0 +1,8 @@
+metric,value
+Number of catchments,280
+DIC,3400.12
+WAIC,5908.24
+Hotspots (exceedance > 0.80),121
+Hotspots (exceedance > 0.90),119
+"Robust hotspots, strict LISA p <= 0.05",2
+"Robust hotspots, exploratory LISA p <= 0.10",4

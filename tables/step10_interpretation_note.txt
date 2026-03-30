@@ -1,0 +1,4 @@
+Crude malaria and SCD maps show observed burden directly and are sensitive to local population size and unstable small-area variation.
+The crude local co-cluster proxy highlights areas where both malaria and SCD burdens are simultaneously high relative to the national distribution.
+The Bayesian shared-risk map is smoother and more spatially coherent because it estimates the latent shared burden surface rather than reproducing raw local fluctuation.
+Comparing crude and smoothed maps helps demonstrate why Bayesian disease mapping adds value: it reduces instability, clarifies broader shared spatial structure, and supports more defensible hotspot interpretation.

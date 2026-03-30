@@ -1,0 +1,3 @@
+model,dic,waic,n_hotspot_080,n_hotspot_090,n_robust_hotspot_005,n_robust_hotspot_010
+Step 4 baseline shared model,3400.1240010614783,5908.239707540899,121,119,2,4
+Step 5 extended shared model,3326.3313287074593,4964.556915169735,115,111,2,4

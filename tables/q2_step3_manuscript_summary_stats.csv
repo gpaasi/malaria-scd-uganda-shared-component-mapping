@@ -1,0 +1,5 @@
+analysis,pairing,statistic,p_value
+Global bivariate Moran's I,cases,-0.07681734215134771,0.046
+Global bivariate Moran's I,deaths,-0.036231890183112105,0.229
+Global multivariate Geary's C,cases,1.0502774030822237,0.556
+Global multivariate Geary's C,deaths,0.7726121261409055,0.099

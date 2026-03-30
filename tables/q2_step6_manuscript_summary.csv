@@ -1,0 +1,11 @@
+metric,value
+"Robust shared hotspots, strict threshold",2
+"Robust shared hotspots, exploratory threshold",4
+"Bayesian-only shared hotspots, strict threshold",113
+"Bayesian-only shared hotspots, exploratory threshold",111
+"LISA-only hotspots, strict threshold",0
+"LISA-only hotspots, exploratory threshold",0
+"Discordant cluster areas, strict threshold",9
+"Discordant cluster areas, exploratory threshold",12
+"Low-Low cluster areas, strict threshold",0
+"Low-Low cluster areas, exploratory threshold",0
