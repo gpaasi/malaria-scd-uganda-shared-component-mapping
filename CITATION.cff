@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "If you use this repository, please cite the associated manuscript and the repository itself."
+title: "Spatial co-clustering of malaria and sickle cell disease across health facility catchments in Uganda"
+type: software
+authors:
+  - family-names: "Paasi"
+    given-names: "George"
+repository-code: "https://github.com/YOUR-USERNAME/malaria-scd-uganda-workflow"
+abstract: "R workflow for spatial co-clustering analysis of malaria and sickle cell disease across health facility catchments in Uganda using shared-component disease mapping."
+license: "No license specified"
