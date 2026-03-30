@@ -202,7 +202,7 @@ This repository supports the paper:
 
 **Spatial co-clustering of malaria and sickle cell disease burden across health facility catchments in Uganda: a Bayesian shared-component disease mapping analysis**
 
-Main manuscript files should be placed in `manuscript/main/` and supplementary files in `manuscript/supplementary/`.
+Main manuscript files are in `manuscript/main/` and supplementary files in `manuscript/supplementary/`.
 
 ## Reproducibility
 
@@ -255,7 +255,6 @@ See `LICENSE`.
 Recommended approach:
 - code under the MIT License
 - manuscript text, tables, and figures under a Creative Commons license if desired
-- restricted health data should **not** be deposited publicly unless data-sharing permissions allow it
 
 ## Contact
 
