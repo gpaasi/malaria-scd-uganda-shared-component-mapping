@@ -1,27 +1,3 @@
-If you want the strongest thesis flow
-Your final analytic sequence would then look like:
-•	Step 1 preprocessing
-•	Step 2 spatial weights and global autocorrelation
-•	Step 3 local co-clustering and exploratory hotspot detection
-•	Step 4 baseline Bayesian shared-component model
-•	Step 5 extended Bayesian shared-component model
-•	Step 6 hotspot typology, stability, and prioritisation
-That is a very coherent workflow.
-Best next move
-I can draft the full Step 6 R script now, using your current Step 3, Step 4, and Step 5 outputs.
-
-
-yes
-
-
-Thought for a second
-Here is the full Step 6 R script for hotspot typology, stability, discordance, and prioritisation.
-It is designed to use your current outputs from:
-•	Step 3: local bivariate LISA
-•	Step 4: baseline Bayesian shared model
-•	Step 5: extended Bayesian shared model
-Save it as:
-06_q2_step6_hotspot_typology_stability_and_prioritisation.R
 # ============================================================
 # OBJECTIVE 2, QUESTION 2
 # Step 6: Hotspot typology, stability, discordance,
